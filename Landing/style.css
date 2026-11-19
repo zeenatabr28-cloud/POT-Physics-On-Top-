@@ -1,0 +1,65 @@
+
+body{
+  background-image: linear-gradient(to right, #e1aad5, #a8b5fb);
+  width : 100vw;
+  
+}
+
+#Header{
+  text-align: center;
+  background-image: url('Landing.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: scroll;
+  width : 80%;
+  height : 200px;
+  margin: auto;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#heading{
+  font-size: 50px;
+  font-family: fantasy;
+  vertical-align: center;
+  color: #fce9af;
+  text-shadow: 0 0 10px #1e4d58;
+}
+
+#subheading{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 100;
+  color: #a06689;
+}
+
+#ContentSummary{
+  background-image: linear-gradient(to right, #fdb4ae, #eab486);
+  text-align: justify;
+  width: 90%;
+  height: 430px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-top: 50px;
+  align-items: center;
+  border-radius: 50px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #4b2c4e;
+}
+
+ul{
+  color: aliceblue;
+  font-weight: 400;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#ButtonBox{
+  margin-top: 20;
+
+}
