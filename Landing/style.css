@@ -1,8 +1,6 @@
 
 body{
   background-image: linear-gradient(to right, #e1aad5, #a8b5fb);
-  width : 100vw;
-  
 }
 
 #Header{
@@ -59,7 +57,35 @@ ul{
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#ButtonBox{
-  margin-top: 20;
+#Buttons{
 
+margin-top: 20px;
+padding: 30px;
+align-content: center;
+width: 100vw;
+
+}
+
+#g10{
+  background-color: #70d1c9;
+  color: aliceblue;
+  width: 25vw;
+  border: none;
+  margin-right: 10vh;
+  text-align: center;
+}
+
+#g11{
+  background-color: #6a9ce9;
+  color: aliceblue;
+  width: 25vw;
+  border: none;
+  margin-right: 10vh;
+}
+
+#g12{
+  background-color: #9074a5;
+  color: aliceblue;
+  width: 25vw;
+  border: none;
 }
