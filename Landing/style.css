@@ -73,6 +73,8 @@ width: 100vw;
   border: none;
   margin-right: 10vh;
   text-align: center;
+  border-radius: 20px;
+  padding-top: 20px;
 }
 
 #g11{
@@ -81,6 +83,9 @@ width: 100vw;
   width: 25vw;
   border: none;
   margin-right: 10vh;
+  text-align: center;
+  border-radius: 20px;
+  padding-top: 20px;
 }
 
 #g12{
@@ -88,4 +93,7 @@ width: 100vw;
   color: aliceblue;
   width: 25vw;
   border: none;
+  text-align: center;
+  border-radius: 20px;
+  padding-top: 20px;
 }
