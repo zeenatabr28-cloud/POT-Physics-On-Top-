@@ -63,11 +63,12 @@ margin-top: 20px;
 padding: 30px;
 align-content: center;
 width: 100vw;
-
+align-items: center;
+font-size: 12px;
 }
 
 #g10{
-  background-color: #70d1c9;
+  background-image: url('Landing.jpg');
   color: aliceblue;
   width: 25vw;
   border: none;
@@ -78,7 +79,7 @@ width: 100vw;
 }
 
 #g11{
-  background-color: #6a9ce9;
+  background-image: url('Landing.jpg');
   color: aliceblue;
   width: 25vw;
   border: none;
@@ -86,14 +87,19 @@ width: 100vw;
   text-align: center;
   border-radius: 20px;
   padding-top: 20px;
+  margin-top: 20px;
+
 }
 
 #g12{
-  background-color: #9074a5;
+  background-image: url('Landing.jpg');
   color: aliceblue;
   width: 25vw;
   border: none;
   text-align: center;
   border-radius: 20px;
   padding-top: 20px;
+  margin-top: 20px;
+
 }
+
