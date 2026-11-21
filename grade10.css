@@ -125,3 +125,13 @@ a:active{
 th, td{
   padding: 10px;
 }
+
+#coulombs{
+  background-image: linear-gradient(to right, #e1aad5, #eab486);
+  color: aliceblue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 15vw;
+  padding: 20px;
+  border-radius: 10px;
+}
