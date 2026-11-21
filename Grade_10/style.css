@@ -1,4 +1,75 @@
 body{
-  background-image: url('BG.jpg');
-  
+  background-image: url('background.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+}
+
+#body{
+  height: 100vh;
+  width: 80vw;
+  background-image: linear-gradient(to right, #a6a2df, #e69ddc);
+  border: none;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+
+button{
+  width: 12vw;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  color: aliceblue;
+  background: none;
+  border: none;
+  border-radius: 12px;
+  margin: 25px;
+  cursor: pointer;
+  font-size: medium;
+  font-family: 'Courier', monospace;
+}
+
+button:active{
+  background-color: aliceblue;
+}
+
+#matter{
+  display: block;
+  color: #fce9af;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#waves{
+  display: none;
+  color: #fce9af;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#chemicals{
+  display: none;
+  color: #fce9af;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#mechanics{
+  display: none;
+  color: #fce9af;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#electricity{
+  display: none;
+  color: #fce9af;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
 }
