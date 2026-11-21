@@ -17,7 +17,7 @@ h1{
 }
 
 #body{
-  height: 100%;
+  min-height: 600px;
   width: 70vw;
   background-image: linear-gradient(to right, #a6a2df, #e69ddc);
   border: none;
@@ -133,5 +133,11 @@ th, td{
   margin-bottom: 10px;
   width: 15vw;
   padding: 20px;
+  border-radius: 10px;
+}
+
+#circ{
+  height: 25%;
+  width: 25%;
   border-radius: 10px;
 }
