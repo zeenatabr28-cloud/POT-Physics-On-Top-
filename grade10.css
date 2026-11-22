@@ -141,3 +141,24 @@ th, td{
   width: 25%;
   border-radius: 10px;
 }
+
+#tab{
+  background-image: linear-gradient(to right, #e1aad5, #eab486);
+  color: aliceblue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 15vw;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+li{
+  color: #ffdac9;
+}
+
+#example{
+  background-image: linear-gradient(to right, #eab486, #d4bcfc);
+  padding: 20px;
+  border-radius: 20px;
+  max-width: fit-content;
+}
